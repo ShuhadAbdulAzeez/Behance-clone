@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-lbp4wuyydy39n22o%xu(8%1t2fpf-r9jd7!1*2(@_!0prlz=f(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['behance-clone04.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
